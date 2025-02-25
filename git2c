@@ -11,4 +11,8 @@ git init
 git log
 git log --oneline
 
-git config
+git config user.name
+git config user.email
+
+git config --global user.name "username"
+git config --global user.email "email"
