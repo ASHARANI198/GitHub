@@ -10,3 +10,5 @@ git init
 
 git log
 git log --oneline
+
+git config
