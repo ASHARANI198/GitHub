@@ -1,0 +1,5 @@
+git clone <repo-url>
+git add <filename>
+git commit -m "message"
+git remote set-url origin https://<token>@github.com/<username>/repo
+git push origin main
